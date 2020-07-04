@@ -16,9 +16,11 @@
  
 # 魅力が直感的に伝えわるデモ動画や図解　Demo videos and illustrations that intuitively convey the charm
 
-* https://gyazo.com/d8f672982421da212f3ae237d9ae05dd　トップページ画面　top page
+* トップページ画面　top page
+  https://gyazo.com/d8f672982421da212f3ae237d9ae05dd　
 
-* https://gyazo.com/01bcaf97e8d908601b15dc96596ce5f7　詳細画面の動画　details　page　video
+* 詳細画面の動画　details　page　video
+  https://gyazo.com/01bcaf97e8d908601b15dc96596ce5f7　
 
 # セールスポイントや差別化などを説明　Features
 

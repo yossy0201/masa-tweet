@@ -6,7 +6,7 @@
 
 # リポジトリ　repository 
 
-*　yossy0201/masa-tweet） 
+*　yossy0201/masa-tweet
  
 # 詳細　details
 

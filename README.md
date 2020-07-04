@@ -14,8 +14,7 @@
 
 * I developed My Business card . By using this app, you no longer need to manage paper business cards.
  
-# 魅力が直感的に伝えわるデモ動画や図解　
-  Demo videos and illustrations that intuitively convey the charm
+# 魅力が直感的に伝えわるデモ動画や図解　Demo videos and illustrations that intuitively convey the charm
 
 * トップページ画面　top page
   https://gyazo.com/d8f672982421da212f3ae237d9ae05dd　
@@ -92,6 +91,6 @@
 - belongs_to :post
 - belongs_to :user
  
-# Author 作成情報を列挙する
+# 作成情報を列挙する　Author
  
 * 作成者　yossy0201

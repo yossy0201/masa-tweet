@@ -6,7 +6,7 @@
 
 # リポジトリ　repository 
 
-*　yossy0201/
+*　yossy0201/Business-Card
  
 # 詳細　details
 

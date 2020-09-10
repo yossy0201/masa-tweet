@@ -30,7 +30,7 @@
 
 # 使用方法　Usage
 
-*　git clone　https://github.com/yossy0201/masa-tweet
+*　git clone　https://github.com/yossy0201/Business-Card
  
 # My Business cardを動かすのに必要なライブラリなどを列挙する Requirement My Business card
  
